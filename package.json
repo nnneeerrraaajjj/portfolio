@@ -19,7 +19,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "craco build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nnneeerrraaajjj.github.io/portfolio/"
+  "homepage": "https://6374a29c55b96c2489a7cea2--harmonious-chimera-84826b.netlify.app/"
 }
